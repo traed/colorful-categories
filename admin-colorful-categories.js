@@ -6,12 +6,13 @@ jQuery(document).ready(function($) {
 			palettes: [
 				'#000',
 				'#fff',
+				'#666666',
+				'#52be7f',
 				'#f4be4d',
 				'#e9584b',
 				'#e68b85',
 				'#e1e1e1',
-				'#666666',
-				'#52be7f',
+				'#6CD899',
 				'#58afcc'
 			],
             change: _.throttle(function() {
