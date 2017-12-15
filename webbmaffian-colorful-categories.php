@@ -1,11 +1,10 @@
 <?php
 /*
- Plugin Name: Colorful Categories
- Description: Color Categories forked from https://wordpress.org/plugins/colorful-categories/#developers
+ Plugin Name: Webbmaffian Colorful Categories
+ Description: Webbmaffian Colorful Categories
  Version: 1.0.0
  Author: Mattias Forsman
  Author URI: https://webbmaffian.se
- Text Domain: colorful-categories
 */
 
 /**

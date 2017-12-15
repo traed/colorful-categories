@@ -2,6 +2,18 @@ jQuery(document).ready(function($) {
 
     var updatePickers = function() {
         $('.colorful-categories-picker').wpColorPicker({
+			defaultColor: '#1AABE2',
+			palettes: [
+				'#000',
+				'#fff',
+				'#f4be4d',
+				'#e9584b',
+				'#e68b85',
+				'#e1e1e1',
+				'#666666',
+				'#52be7f',
+				'#58afcc'
+			],
             change: _.throttle(function() {
 
                 $(this).trigger('change');
