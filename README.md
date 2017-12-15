@@ -9,6 +9,6 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 == Description ==
 
-New Categories widget in the awesome style! Bring colours to your categories widget - make every category in own colour.
+Color Categories forked from https://wordpress.org/plugins/colorful-categories/#developers
 
 All colours are stored as term meta variables.
